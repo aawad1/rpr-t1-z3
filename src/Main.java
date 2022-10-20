@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Main {
     public static void  main(String[] arg) {
         Sat s = new Sat(15,30,45);
